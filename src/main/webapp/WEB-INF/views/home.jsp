@@ -32,7 +32,6 @@
                         &nbsp;&nbsp;&nbsp;&nbsp;
                         <a href="/deleteContact?id=${contact.id}">Delete</a>
                     </td>
-
                 </tr>
                 </c:forEach>
             </table>
